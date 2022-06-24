@@ -1,0 +1,16 @@
+C:\Users\Szefu\source\repos\RGB\RGB\bin\Debug\netcoreapp3.1\RGB.exe
+C:\Users\Szefu\source\repos\RGB\RGB\bin\Debug\netcoreapp3.1\RGB.deps.json
+C:\Users\Szefu\source\repos\RGB\RGB\bin\Debug\netcoreapp3.1\RGB.runtimeconfig.json
+C:\Users\Szefu\source\repos\RGB\RGB\bin\Debug\netcoreapp3.1\RGB.runtimeconfig.dev.json
+C:\Users\Szefu\source\repos\RGB\RGB\bin\Debug\netcoreapp3.1\RGB.dll
+C:\Users\Szefu\source\repos\RGB\RGB\bin\Debug\netcoreapp3.1\RGB.pdb
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.csproj.AssemblyReference.cache
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.Form1.resources
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.csproj.GenerateResource.cache
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.AssemblyInfoInputs.cache
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.AssemblyInfo.cs
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.csproj.CoreCompileInputs.cache
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.dll
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.pdb
+C:\Users\Szefu\source\repos\RGB\RGB\obj\Debug\netcoreapp3.1\RGB.genruntimeconfig.cache
